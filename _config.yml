@@ -3,5 +3,5 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Bogdan Eugen Cristea
-description: Home Page
-show_downloads: false
+description: PhD Engineer in Networks and Telecommunications
+show_downloads: welcomes you to his home page

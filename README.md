@@ -1,1 +1,1 @@
-# cristeab.github.io
+I am an experienced software engineer in cross-platform application development.
