@@ -21,4 +21,5 @@ As Ph student, my research interests were related to digital signal processing a
 
 # News
 
+October 1st, 2024
 [FiscalRecords v1.1.169](https://github.com/cristeab/EvidentaFiscala/releases) has been released with support for macOS and Windows.
