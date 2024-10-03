@@ -1,7 +1,7 @@
 # Introduction
 
 I am an experienced software engineer in cross-platform application development. My main interests lie at the intersection between software development and networking. 
-I am developer/maintainer for [several open-source projects](open_source_projects.md). I am also writing [articles on software engineering topics](articles.md).
+I am developer/maintainer for [several open-source projects](projects.md). I am also writing [articles on software engineering topics](articles.md).
 
 As Ph student, my research interests were related to digital signal processing and their application to multiple access systems. Samples of my work as researcher can be found [here](https://sites.google.com/site/cristeab/).
 
