@@ -7,8 +7,8 @@ As Ph student, my research interests were related to digital signal processing a
 
 # News
 
-January 25th, 2025
-[10 minutes Air Quality Index (AQI) Computation](https://github.com/cristeab/plantower) Python scripts for reading data from air quality sensors in passive mode and computing the AQI.
+February 15th, 2025
+[10 minutes Air Quality Index (AQI) Computation](https://github.com/cristeab/plantower) Python scripts for reading data from multiple air quality sensors in passive mode and computing the AQI.
 
 October 1st, 2024
 [FiscalRecords v1.1.169](https://github.com/cristeab/EvidentaFiscala/releases) has been released with support for macOS and Windows.
