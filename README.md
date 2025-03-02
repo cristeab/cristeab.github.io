@@ -7,6 +7,9 @@ As Ph student, my research interests were related to digital signal processing a
 
 # News
 
+March 2nd, 2025
+[Air Quality Dashboard](https://github.com/cristeab/aq_dashboard) Web server for presenting the air quality data obtained from a pair of sensors.
+
 February 15th, 2025
 [10 minutes Air Quality Index (AQI) Computation](https://github.com/cristeab/plantower) Python scripts for reading data from multiple air quality sensors in passive mode and computing the AQI.
 
