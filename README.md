@@ -7,6 +7,9 @@ As Ph student, my research interests were related to digital signal processing a
 
 # News
 
+May 4th, 2025
+[Air Quality Data Analysis](https://github.com/cristeab/aq_data_analysis) Python script for the analysis of historical Air Quality (AQ) data provided by the [Air Quality Dashboard](https://github.com/cristeab/aq_dashboard) project.
+
 April 20th, 2025
 [Air Quality Dashboard](https://github.com/cristeab/aq_dashboard) Development platform for air quality monitoring. Multiple sensors are used to monitor the air quality and other environmental parameters: air quality sensors, noise sensor, temperature/pressure/humidity sensor. The sensors can be connected on USB ports of a PC running Debian.
 
