@@ -7,6 +7,9 @@ As Ph student, my research interests were related to digital signal processing a
 
 # News
 
+August 31st, 2025
+[Air Quality Dashboard](https://github.com/cristeab/aq_dashboard) Implemented a notification system for real-time sensor data monitoring. Notifications are triggered when a sensor value falls within a defined interval and are displayed in a notifications dropdown accessed via the notifications button.
+
 May 4th, 2025
 [Air Quality Data Analysis](https://github.com/cristeab/aq_data_analysis) Python script for the analysis of historical Air Quality (AQ) data provided by the [Air Quality Dashboard](https://github.com/cristeab/aq_dashboard) project.
 
