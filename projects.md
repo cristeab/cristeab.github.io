@@ -1,5 +1,7 @@
 # Open-Source Projects
 
+* [Air Quality Dashboard](https://github.com/cristeab/aq_dashboard) - an air quality monitoring station for reading data from multiple sensors, storing the data locally and resenting the data with a web browser
+
 * [BCPhone](https://github.com/cristeab/bcphone) - a cloud based softphone written in C++ with Qt/QML framework
 
 * [P2PCommPlatf](https://github.com/cristeab/p2p_comm_platf) - a peer to peer communication platform
