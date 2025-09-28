@@ -1,5 +1,7 @@
 # Articles Published on Medium
 
+* [Building an Air Quality Monitoring Station](https://cristeab.medium.com/building-an-air-quality-monitoring-station-ba74098f0528)
+
 * [Setup the Windows Subsystem for Linux Terminal](https://medium.com/@cristeab/setup-the-windows-subsystem-for-linux-terminal-8e3dd62c489d)
 
 * [IT++ Library for Numerical Simulations](https://medium.com/@cristeab/it-library-for-numerical-simulations-905a7bf442ff)
