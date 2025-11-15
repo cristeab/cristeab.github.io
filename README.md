@@ -7,6 +7,9 @@ As Ph student, my research interests were related to digital signal processing a
 
 # News
 
+November 15th, 2025
+[Air Quality Dashboard](https://github.com/cristeab/aq_dashboard) The user interface is reorganized such that air pollutants are grouped in the right column and the environment parameters in the left column. The sensor service is restarted automatically if no data is read from the sensor within a defined interval. Add support for the most important air pollutants.
+
 August 31st, 2025
 [Air Quality Dashboard](https://github.com/cristeab/aq_dashboard) Implemented a notification system for real-time sensor data monitoring. Notifications are triggered when a sensor value falls within a defined interval and are displayed in a notifications dropdown accessed via the notifications button.
 
