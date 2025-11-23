@@ -7,6 +7,9 @@ As Ph student, my research interests were related to digital signal processing a
 
 # News
 
+November 23rd 2025
+[Air Quality Dashboard](https://github.com/cristeab/aq_dashboard) Add support for Airthings Corentium Home 2 such that Radon data can be read over Bluetooth Low Energy (BLE) link and shown in real time.
+
 November 15th, 2025
 [Air Quality Dashboard](https://github.com/cristeab/aq_dashboard) The user interface is reorganized such that air pollutants are grouped in the right column and the environment parameters in the left column. The sensor service is restarted automatically if no data is read from the sensor within a defined interval. Add support for the most important air pollutants.
 
