@@ -7,6 +7,9 @@ As Ph student, my research interests were related to digital signal processing a
 
 # News
 
+December 29th 2025
+[Air Quality Dashboard](https://github.com/cristeab/aq_dashboard) Add support for Renesas ZMOD4510 sensor to read Ozone (O3) and Nitrate Dioxide (NO2) concentrations in PPB.
+
 November 23rd 2025
 [Air Quality Dashboard](https://github.com/cristeab/aq_dashboard) Add support for Airthings Corentium Home 2 such that Radon data can be read over Bluetooth Low Energy (BLE) link and shown in real time.
 
