@@ -7,6 +7,9 @@ As Ph student, my research interests were related to digital signal processing a
 
 # News
 
+January 1st 2025
+[Air Quality Dashboard](https://github.com/cristeab/aq_dashboard) Add support for Winsen ZE07 sensor to read Carbon Monoxide (CO) concentration in PPM.
+
 December 29th 2025
 [Air Quality Dashboard](https://github.com/cristeab/aq_dashboard) Add support for Renesas ZMOD4510 sensor to read Ozone (O3) and Nitrate Dioxide (NO2) concentrations in PPB.
 
