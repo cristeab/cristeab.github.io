@@ -7,7 +7,7 @@ As Ph student, my research interests were related to digital signal processing a
 
 # News
 
-January 1st 2025
+January 1st 2026
 [Air Quality Dashboard](https://github.com/cristeab/aq_dashboard) Add support for Winsen ZE07 sensor to read Carbon Monoxide (CO) concentration in PPM.
 
 December 29th 2025
