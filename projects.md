@@ -2,13 +2,13 @@
 
 * [Air Quality Dashboard](https://github.com/cristeab/aq_dashboard) - An air quality monitoring station for reading data from multiple sensors, storing it locally, and presenting it through a local web server
 
+* [FiscalRecords](https://github.com/cristeab/EvidentaFiscala) - an application for keeping fiscal records in CSV files
+
 * [BCPhone](https://github.com/cristeab/bcphone) - a cloud based softphone written in C++ with Qt/QML framework
 
 * [P2PCommPlatf](https://github.com/cristeab/p2p_comm_platf) - a peer to peer communication platform
 
 * [AutoDialer](https://github.com/cristeab/autodialer) - a VoIP web application written in Python with Django framework and PJSIP library
-
-* [FiscalRecords](https://github.com/cristeab/EvidentaFiscala) - an application for keeping fiscal records in CSV files
 
 * [TabletReader](https://github.com/cristeab/tabletReader) - a tablet reader using Okular backend. Selected for Intel's Ultrabook Experience Software Contest 2012.
 

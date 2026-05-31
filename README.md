@@ -7,6 +7,9 @@ As Ph student, my research interests were related to digital signal processing a
 
 # News
 
+June 1st, 2026
+[FiscalRecords v1.2.403](https://github.com/cristeab/EvidentaFiscala/releases) has been released with support for macOS, Windows and Linux. Also, ledgers can be automatically backed up into a git repository and the exchange rates are taken from official servers.
+
 January 1st 2026
 [Air Quality Dashboard](https://github.com/cristeab/aq_dashboard) Add support for Winsen ZE07 sensor to read Carbon Monoxide (CO) concentration in PPM.
 
