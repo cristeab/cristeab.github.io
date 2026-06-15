@@ -7,6 +7,9 @@ As Ph student, my research interests were related to digital signal processing a
 
 # News
 
+June 15th, 2026
+[Air Quality Dashboard](https://github.com/cristeab/aq_dashboard) Improved page layout for both desktop and mobile. Nginx acts as a reverse proxy to enable SSL and customize the server URL.
+
 June 2nd, 2026
 [FiscalRecords v1.2.418](https://github.com/cristeab/EvidentaFiscala/releases) has been released with support for macOS, Windows and Linux. Ledgers can be automatically backed up into a git repository and the exchange rates are taken from official servers.
 
