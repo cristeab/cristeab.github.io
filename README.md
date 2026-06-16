@@ -7,6 +7,9 @@ As Ph student, my research interests were related to digital signal processing a
 
 # News
 
+June 16th, 2026
+[FiscalRecords v1.2.428](https://github.com/cristeab/EvidentaFiscala/releases/tag/v1.2428) Add toolbar button to change the rows order, the table is correctly refreshed when a new row is added. 
+
 June 15th, 2026
 [Air Quality Dashboard v2.1.0](https://github.com/cristeab/aq_dashboard) Improved page layout for both desktop and mobile. Nginx acts as a reverse proxy to enable SSL and customize the server URL.
 
