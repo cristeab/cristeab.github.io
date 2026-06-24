@@ -7,6 +7,9 @@ As Ph student, my research interests were related to digital signal processing a
 
 # News
 
+June 19th, 2026
+[FiscalRecords v1.2.432](https://github.com/cristeab/EvidentaFiscala/releases/tag/v1.2.432) Add a Claude AI assistant skill to compute the three annual fiscal obligations for a Romanian Persoană Fizică Autorizată (PFA): income tax, CAS and CASS. The associated Wiki page can be found [here](https://github.com/cristeab/EvidentaFiscala/wiki/Claude-Skill).
+
 June 16th, 2026
 [FiscalRecords v1.2.428](https://github.com/cristeab/EvidentaFiscala/releases/tag/v1.2428) Add toolbar button to change the rows order, the table is correctly refreshed when a new row is added. 
 
