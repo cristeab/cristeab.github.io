@@ -7,6 +7,9 @@ As Ph student, my research interests were related to digital signal processing a
 
 # News
 
+July 15th, 2026
+[Air Quality Dashboard v2.2.0](https://github.com/cristeab/aq_dashboard) Added the Thom discomfort index, improved the notifications panel, and introduced internationalization support.
+
 June 19th, 2026
 [FiscalRecords v1.2.432](https://github.com/cristeab/EvidentaFiscala/releases/tag/v1.2.432) Add a Claude AI assistant skill to compute the three annual fiscal obligations for a Romanian Persoană Fizică Autorizată (PFA): income tax, CAS and CASS. The associated Wiki page can be found [here](https://github.com/cristeab/EvidentaFiscala/wiki/Claude-Skill).
 
